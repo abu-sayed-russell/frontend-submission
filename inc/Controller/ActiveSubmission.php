@@ -1,0 +1,1 @@
+<?phpnamespace Initial\Controller;class ActiveSubmission{  public static function ActivateFrontEndSubmissionFlash() {    flush_rewrite_rules();  }}

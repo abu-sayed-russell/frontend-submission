@@ -1,0 +1,1 @@
+<?phpnamespace Initial\Controller;class DeactiveSubmission{  public static function DeactivateFrontEndSubmissionFlash() {    flush_rewrite_rules();  }}

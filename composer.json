@@ -1,0 +1,19 @@
+{
+    "name": "getweb/frontend-submission",
+    "description": "Awesome Front End Submission Form",
+    "type": "Project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Abu Sayed Russell",
+            "email": "abusayedrussell@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Initial\\": "./inc"
+        }
+    }
+}
